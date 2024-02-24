@@ -1,0 +1,21 @@
+PROGRAM LOGIC
+
+# Ask user for:
+1. Loan amount
+2. Interest rate
+3. Loan term - duration of payment
+4. How often interest compounds - Monthly?, Weekly?, Daily? etc
+
+# Make a check if interest rate supered 50% of loan amount
+    if true:
+        return an error
+    else:
+        pass
+
+# Calculates monthly payment
+# Calculate total time to pay off the entire loan
+
+# Return the compounding interval payment
+# Return the total time it'd take to pay off the entire loan
+
+

@@ -1,0 +1,3 @@
+The Mortgage Calculator project helps users understand how much they need to pay monthly for a mortgage loan. It also tells them how long it will take to pay off the entire loan. Users input details like the loan amount, interest rate, and the loan term (how long they want to repay the loan). They can also choose how often interest is compounded: monthly, weekly, daily, or continuously.
+
+The calculator then uses this information to calculate the monthly payment and the total time needed to pay off the loan. It's a tool that helps people plan their finances when considering a mortgage, allowing them to see how different interest rates, loan terms, and compounding intervals affect their monthly payments and loan duration.
